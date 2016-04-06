@@ -54,3 +54,5 @@ gem "fog"
 
 gem "figaro"
 
+gem "rmagick"
+
