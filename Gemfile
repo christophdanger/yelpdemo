@@ -56,3 +56,5 @@ gem "figaro"
 
 gem "rmagick"
 
+gem "devise"
+
